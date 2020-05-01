@@ -1,1 +1,1 @@
-# Income_Segmentation_and_Prediction
+# Income Segmentation and Prediction
